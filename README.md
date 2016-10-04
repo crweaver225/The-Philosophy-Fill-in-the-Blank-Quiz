@@ -11,9 +11,9 @@ before failing the quiz.
 - Written in Python
 
 - The answers to the questions are as follows:
--Easy: 1) ought 2) virtue 3) deontological 4) utilitarianism
--Medium: 1) knowledge 2) greeks 3) rationalism 4) empiricism 5) nihilism
--Hard: 1) master 2) social 3) heaven 4) general will
+- Easy: 1) ought 2) virtue 3) deontological 4) utilitarianism
+- Medium: 1) knowledge 2) greeks 3) rationalism 4) empiricism 5) nihilism
+- Hard: 1) master 2) social 3) heaven 4) general will
 
 - Upon the completion or failure of a quiz, users are asked if they wish to play again.
 
